@@ -3,7 +3,7 @@
 
 ## How it works
 
-**Follow the menu system and enter Recipe details**\
+**Follow the menu system and enter Recipe details**
 
 **TODO:**\
 ~ Add JSON Support\
