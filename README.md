@@ -8,4 +8,5 @@
 **TODO:**\
 ~ Add JSON Support\
 ~ Add Scraping of internet for Recpies\
-~ Addition of synonym support for ingredients
+~ Addition of synonym support for ingredients\
+~ Add Time restraint search for Recpies
